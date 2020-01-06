@@ -1,0 +1,19 @@
+.texte{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    line-height: 50px;
+}
+
+.container-fluid{
+    background-color: blueviolet;
+    border: 2px solid crimson;
+}
+
+p{
+    border: 2px solid green;
+}
+
+
+
